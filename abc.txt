@@ -1,2 +1,3 @@
 I am learning Devops.
 I am learning Git and Github.
+Doing hands on today.
